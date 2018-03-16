@@ -1,0 +1,75 @@
+button.btn-large.amber.darken-2.white-text.waves-effect.waves-light {
+	margin-top: -0.1px;
+}
+
+#form-btn-text {
+	background-color: #ffa000 !important;
+	padding-top: 13px;
+}
+
+i.material-icons.left.main {
+	margin-top: 0.3em;
+	margin-right: 15px;
+	font-size: 3em;
+	display: inline-block;
+	backface-visibility: hidden;
+	transition: all ease-in-out 3ms;
+	margin-top: 14px;
+	margin-right: 15px;
+}
+
+div.col.s12.m4.l3.hide-on-small-only {
+	
+}
+
+i.material-icons {
+	margin-top: 13px;
+	margin-right: 15px;
+	/*height: 68px;*/
+	line-height: inherit;
+	transition: all ease-in-out 3ms;
+	box-sizing: border-box;
+	float: left;
+	/*line-height: 67.5px;*/
+	position: static;
+	display: block;
+	z-index: auto;
+}
+
+i.material-icons.icon-timer  {
+	margin-top: 25px;
+	margin-right: 15px;	
+}
+
+div.widgetIcon {
+	border-radius: 50%;
+}
+
+
+i.material-icons.sst {
+	font-size: 4em;
+}
+
+i.material-icons.footer-icons {
+	width: 14px;
+	height: 24px;
+	padding-bottom: 10px;
+}
+
+a.grey-text.text-lighten-3 {
+	font-weight: inherit;
+	background-color: transparent;
+	box-sizing: inherit;
+}
+
+.sec-list-1 {
+	visibility: hidden;
+}
+
+.sec-list-2 {
+	visibility: hidden;
+}
+
+.sec-list-3 {
+	visibility: hidden;
+}
